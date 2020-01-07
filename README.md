@@ -23,7 +23,7 @@ and a filter. The fan is quiet. The filter is large. It just works.
 This device is in a neat package. It consists of a display, software, and according to the website "professional grade sensors."
 The crucial measurement is a category of pollutants known as particulate matter (PM) 2.5 micrometers and smaller. 
 Particulate matter this small passes from your lungs into the blood stream which is 
-[not a good thing](https://en.wikipedia.org/wiki/PM2.5).
+[not a good thing](https://en.wikipedia.org/wiki/Particulates#Health_effects).
 
 
 Every 10 seconds, the AirVisual Pro adds a row to a file with the following data:
