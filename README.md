@@ -39,5 +39,7 @@ The first thing to learn was how bad was the air in my office and how quickly wo
 The office air was not too bad. However, the office air reading was exactly the same as the outdoor air. No surprise as 
 windows in my office are frequently open and there is smoking in the office.
 
-The good news is that the Blast removed the PM2.5 pollutants within an hour. The graph plots PM2.5 during the first 4000 seconds of operation. 
+The good news is that the Blast removed the PM2.5 pollutants within an hour. The graph plots PM2.5 during the first 4000 seconds of operation.
+
+![First Hour Cleanup](SmartAirBlast_Startup.png)
 
